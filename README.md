@@ -9,7 +9,6 @@
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?logo=proxmox&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_production-brightgreen)
 
-> **About this document:** This is a sanitized portfolio version of an internal system document. Company name, IP addresses, hostnames, VM/CT names and IDs, file paths, and channel names are replaced with dummy values. No secrets were ever included. The design, alert rules, and procedures reflect the real project.
 
 ---
 
@@ -298,12 +297,12 @@ This is one of three connected infrastructure case studies on the same Proxmox e
 
 | Project | How it relates |
 |---|---|
-| [Live HDD → SSD Migration](https://github.com/your-username/proxmox-hdd-to-ssd-migration) | The storage migration that motivated this stack. |
-| [Centralized Backup Infrastructure](https://github.com/your-username/proxmox-centralized-backup) | Pulls this stack's own backup archive into the central hub and covers it with the same retention policy. |
+| [Live HDD → SSD Migration](https://github.com/mymy-vonthys/proxmox-hdd-to-ssd-migration) | The storage migration that motivated this stack. |
+| [Centralized Backup Infrastructure](https://github.com/mymy-vonthys/proxmox-centralized-backup) | Pulls this stack's own backup archive into the central hub and covers it with the same retention policy. |
 
 ---
 
 ## Author
 
-**Hilmy Sonaji**, IT Infrastructure
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Hilmy Sonaji**
+[GitHub](https://github.com/mymy-vonthys) · [LinkedIn](https://linkedin.com/in/hilmy-sonaji-90908527a)
